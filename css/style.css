@@ -1,0 +1,11 @@
+body {
+	min-width: 960px;
+	font-weight: 700px;
+	font-size: 14px;
+	line-height: 24px;
+
+	background: #000000 url("../img/bg-barber.jpg") no-repeat center top;
+	color: #ffffff;
+	font-family: 'PT Sans', arial;
+	text-transform: uppercase;
+}
